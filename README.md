@@ -1,1 +1,1 @@
-# Magento2-Customized-Theme-Development
+# Magento2-Customized-Theme-Development (Sample Base Framework)
